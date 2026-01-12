@@ -72,7 +72,7 @@ DUE **Tuesday, January 27**:
 * Enter your GitHub username on the spreadsheet: [Github_usernames](https://docs.google.com/spreadsheets/d/1rqQ-OymrvQ4kFFAuBMH43cruqF-KOH-ZM4_tR1jM6Ps/edit?usp=sharing)
 * Create [a new public repository (Step 1 only)](https://guides.github.com/activities/hello-world/#repository) and name it 'idea-120-responses-YOUR_GITHUB_USERNAME'
 * Create a new [markdown](https://guides.github.com/features/mastering-markdown/#what) file [called 'week-02-murray-poem.md'](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) and write a five-line poem about the Murray reading. Using [GitHub markdown syntax](https://guides.github.com/features/mastering-markdown/#what) link to any YouTube video that you feel is related to your poem and include at least 2 images. 
-* 'Commit' the new file to your repository with a description. We'll discuss your results in discussion on Thursday, January 23rd.
+* 'Commit' the new file to your repository with a description. We'll discuss your results in discussion on Thursday, January 22nd.
 
 ***
 
