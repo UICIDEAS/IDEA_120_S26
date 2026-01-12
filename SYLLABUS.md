@@ -3,11 +3,11 @@ CRN: 41677
 
 Instructor: Tiffany Funk.  
 Time: Tuesdays and Thursdays, 9:30-10:45a  
-Art & Exhibition Hall, rm 5202.  
-Contact/Office: tfunk4@uic.edu / Henry Hall 208C.  
-Office Hours: Thursdays, 12-2:00p (in person, HH 208C or schedule for Zoom)  
+Art & Exhibition Hall, rm 3227.  
+Contact/Office: tfunk4@uic.edu / 5th floor, A&E Hall.  
+Office Hours: Thursdays, 12-2:00p (in person, 5th floor A&E Hall, or schedule for Zoom)  
 
-### Syllabus for Spring 2025
+### Syllabus for Spring 2026
 
 ![Alison Knowles, House of Dust](knowles_house_of_dust.png)
 <sup>*Excerpt from [Alison Knowles 'House of Dust'](https://www.damnmagazine.net/2016/09/07/the-house-of-dust-by-alison-knowles/)*</sup>
