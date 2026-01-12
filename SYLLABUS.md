@@ -1,5 +1,4 @@
-![IDEA 120 banner](120_banner.png)
-CRN: 41677  
+## IDEA 120: Spring 2026
 
 Instructor: Tiffany Funk.  
 Time: Tuesdays and Thursdays, 9:30-10:45a  
