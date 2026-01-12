@@ -57,7 +57,7 @@ DUE **Thursday, January 15:
 
 DUE **Tuesday, January 20:  
 * Explore Rhizome's Artbase: https://artbase.rhizome.org/wiki/Main_Page.
-* Find an artwork, and write a summary about it (one paragraph, at least 5 sentences, Google Docs). Include one image that you think best characterizes the project. Create a folder with these files, titled with your first initial and last name (i.e., tfunk) in this Google Drive folder: https://drive.google.com/drive/folders/1oC06G2VLGqJvmNud34O7K58CY2lIXCsd?usp=sharing.
+* Find an artwork, and write a summary about it (one paragraph, at least 5 sentences, Google Docs). Include one image that you think best characterizes the project. Create a folder with these files, titled with your first initial and last name (i.e., tfunk) in this Google Drive folder: https://drive.google.com/drive/folders/1fGoJ7Dzw2f-E0cK4snRgTbnOFkH9wBZ3?usp=sharing
 
 ***
 
