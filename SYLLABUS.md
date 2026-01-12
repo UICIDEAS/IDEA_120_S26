@@ -28,7 +28,7 @@ Office Hours: Thursdays, 12-2:00p (in person, 5th floor A&E Hall, or schedule fo
 
 Welcome to IDEA 120: Digital Practices in Art and Design!
 
-This document is the current syllabus with the course description, expectations, policies, and resources. The contents of this document may be updated throughout the semester. [Download a .pdf copy of the syllabus](Funk_IDEA120_S25.pdf).
+This document is the current syllabus with the course description, expectations, policies, and resources. The contents of this document may be updated throughout the semester. [Download a .pdf copy of the syllabus](Funk_IDEA120_S26.pdf).
 
 ***
 
@@ -62,7 +62,7 @@ This course is required for BA in IDEAS. Extensive computer use (and internet ac
 
 Pre-recorded lectures, texts, articles, videos, audio clips, and additional resources like example files and tutorials can be accessed on the course GitHub repository under the folder for the current week. You will be responsible for watching, reading, and listening to each week's materials, as their content will be explored further in your weekly assignments and projects.  
 
-Course link: https://github.com/UICIDEAS/IDEA_120_S25
+Course link: (https://github.com/fetalcircuit/IDEA_120_S26/blob/Spring2026/SCHEDULE.md)
 
 *_Please bookmark this page. Links will be available via Blackboard, but all course content will be shared through Github._*
 
