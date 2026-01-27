@@ -94,7 +94,6 @@ TUTORIAL VIDEOS for MAKING A GITHUB PAGE: https://vimeo.com/showcase/10964162?sh
 The password is: idea2026  
 
 **For Thursday, February 5:**
-* Read [Higgins & Kahn "First Generation Poetry Generators," Mainframe Experimentalism](week_03/Hannah-Higgins-Douglas-Kahn-Mainframe-Experimentalism-First-Generation-Poetry-Generators-WEEK-05.pdf)
 * Read [K. Silem Mohammad's Spooked and Considering How Spooky Deer Are](week_05/readings/K-Silem-Mohammad-Spooked-and-Considering-How-Spooky-Deer-Are.pdf).
 
 **For Tuesday, February 10:**
