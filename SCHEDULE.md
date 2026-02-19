@@ -111,7 +111,7 @@ The password is: idea2026
  * DEMO VIDEOS: https://vimeo.com/showcase/10964162
 Password: idea2026
 
-**[PROJECT 1: GITHUB POETRY](week_05/PROJECT_1.md) DUE Tuesday, February 18**
+**[PROJECT 1: GITHUB POETRY](week_05/PROJECT_1.md) DUE Tuesday, February 24**
 
 ***
 
