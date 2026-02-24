@@ -11,6 +11,8 @@ Consider what "uncreative writing" means, the rules of "flarf," and how it may b
 2. Paste the text results into a text editor (like Google docs), and cut and edit the text as you like. Don't forget a title.
 3. Use that same Google search, and download 4 images from the first page of image results. Include them in an "img" folder.
 4. Use that text and those images to create a flarf poem website on Github. [Include an External CSS page](https://www.w3schools.com/css/css_howto.asp) to style it any way you like. Instructions for creating a Github page are below. Also, refer to the tutorials linked in the syllabus and schedule pages.
+  
+Add your POETRY WEBSITE and the url of your GITHUB REPOSITORY to this spreadsheet:   https://docs.google.com/spreadsheets/d/1xEAixUQlmEMbI2ExR3OhpDFP3DSfpk0XIkfOy8msTs0/edit?usp=sharing  
 
 ## Setting up GitHub Pages
 
