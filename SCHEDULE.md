@@ -124,7 +124,8 @@ DUE **Thursday, February 19**:
 * Watch [The Medium is the Message Minisode](https://www.youtube.com/watch?v=OseOb_wBsi4&ab_channel=FoldingIdeas)
 * Read [Ezra Klein, I Didn't Want it to be True, New York Times, 2022](week_05/readings/EzraKlein.pdf)
 
-Add your POETRY WEBSITE and the url of your GITHUB REPOSITORY to this spreadsheet: (https://docs.google.com/spreadsheets/d/1xEAixUQlmEMbI2ExR3OhpDFP3DSfpk0XIkfOy8msTs0/edit?usp=sharing)
+Add your POETRY WEBSITE and the url of your GITHUB REPOSITORY to this spreadsheet: 
+https://docs.google.com/spreadsheets/d/1xEAixUQlmEMbI2ExR3OhpDFP3DSfpk0XIkfOy8msTs0/edit?gid=0#gid=0  
 
 ***
 
