@@ -1,7 +1,7 @@
 # Project 2: Green Screen
 ## Project Description and Criteria
 
-**Due Thursday, March 6, 2025 (week 9)**
+**Due Tuesday, March 17, 2026**
 
 What is a green screen? We often see a green screen in a 'behind the scenes' or 'making of' for our favorite films.
 
