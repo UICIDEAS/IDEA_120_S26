@@ -131,20 +131,23 @@ https://docs.google.com/spreadsheets/d/1xEAixUQlmEMbI2ExR3OhpDFP3DSfpk0XIkfOy8ms
 
 ## Unit 2: Digital Literacy and Online Content Creation
 
-### Week 7
-#### Week of February 24, 2026: Digital Un-realities
+### Week 8
+#### Week of March 03, 2026: Digital Un-realities
 
-DUE **Thursday, February 26**:
-* DOWNLOAD and review [Week 7 guide](https://docs.google.com/presentation/d/1-iF5X1sqAQ56PtoNN_q6knK0QsyKj46GbPbqlQ6ViFc/edit?usp=sharing)
-* Read [Janet Murray, Hamlet on the Holodeck: Chapter 9](/week_06_week_of_02-15-2021/readings/Janet-Murray-Hamlet-On-the-Holodeck-Chapter-9-WEEK-06.pdf)
+[Project 2: Green Screen](/week_07/project-2-green-screen.md)!
+
+DUE **Thursday, March 05**:
+* DOWNLOAD and review [Week 8 guide](https://docs.google.com/presentation/d/1EmozESHm2r0_KY29I2AYpYklK5doBc36eKrglmj1iX4/edit?usp=sharing)
+
+* Read Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_02-08-2021/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
 * Watch [Why 'The Mandalorian' Uses Virtual Sets Over Green Screen'](https://www.youtube.com/watch?v=Ufp8weYYDE8)
 * Review [Project 2: Green Screen](/week_07/project-2-green-screen.md) expectations.
 * Write a brief proposal (a few sentences) on what you plan to do for [Project 2: Green Screen](/week_07/project-2-green-screen.md)
 
 ***
 
-### Week 8
-#### Week of March 3, 2026: Personal Digital Narratives
+### Week 9
+#### Week of March 10, 2026: Personal Digital Narratives
 
 <!--* DOWNLOAD and review [Week 7 guide](https://docs.google.com/presentation/d/16_2nJQFGgX6_97hNVljRAzY95KAQmXA_RkgTcWW9vHQ/edit?usp=sharing)-->
 * Read [James Bridle, Something is Wrong On the Internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
@@ -153,8 +156,8 @@ DUE **Thursday, February 26**:
 
 ***
 
-### Week 9
-#### Week of March 10, 2026: What is a model? Design and Algorithms
+### Week 10
+#### Week of March 17, 2026: What is a model? Design and Algorithms
 
 * DOWNLOAD and review [Week 9 guide](https://docs.google.com/presentation/d/1XPAqjFM87uj8W-JjjX47dbCZl4LaseVO2nSQzlhQjwc/edit?usp=sharing)
 * Watch [Mona Chalabi, 3 Ways to Spot a Bad Statistic](https://www.ted.com/talks/mona_chalabi_3_ways_to_spot_a_bad_statistic)
@@ -162,21 +165,6 @@ DUE **Thursday, February 26**:
 * Read [Cathy O'Neil, Weapons of Math Destruction: Introduction, Chapter 1 and 5](week_09/O-Neil.pdf)
 
 * __Create a Google Drive folder for your PROJECT 2, and send me a link (tfunk4@uic.edu). Include the video and 3 screen captures.__
-
-***
-
-## Unit 3: Non-linear Narratives in Digital Media
-
-### Week 10
-#### Week of March 17, 2026: Non-linear Narratives in Digital Media
-
-* Read [Merritt Kopas, Videogames for Humans, 'Introduction'](/week_10/Merritt-Kopas-Videogames-for-Humans-Intro-WEEK-10.pdf)
-* Play [some of the twine games listed here](/week_10_week_of_03-15-2021/twineGames.md)
-* [Read the description for Project 3: Non-linear Narrative](week_10/project-3_non-linear-narrative.md)
-* Create a new markdown document in your 'idea-120-responses' folder called 'project-03-proposal.md' and write a 1-2 paragraph proposal explaining the concept for your non-linear narrative
-
-* Twine: https://twinery.org/
-* [One Big Ole Dump of Twine Tutorials and Help](week_10/twine_tutorial_dump.md)
 
 ***
 
@@ -188,15 +176,26 @@ DUE **Thursday, February 26**:
 ### Week 12
 #### Week of March 31, 2026: Game Design for Artists
 
-* Reminder to play [some of the twine games listed here](/week_10_week_of_03-15-2021/twineGames.md)
-* [Project 3: Non-linear Narrative](week_10/project-3_non-linear-narrative.md)
+***
+
+## Unit 3: Non-linear Narratives in Digital Media
+
+### Week 13
+#### Week of April 7, 2026: Non-linear Narratives in Digital Media
+
+* Read [Merritt Kopas, Videogames for Humans, 'Introduction'](/week_10/Merritt-Kopas-Videogames-for-Humans-Intro-WEEK-10.pdf)
+* Play [some of the twine games listed here](/week_10_week_of_03-15-2021/twineGames.md)
+* [Read the description for Project 3: Non-linear Narrative](week_10/project-3_non-linear-narrative.md)
+* Create a new markdown document in your 'idea-120-responses' folder called 'project-03-proposal.md' and write a 1-2 paragraph proposal explaining the concept for your non-linear narrative
+
 * Twine: https://twinery.org/
 * [One Big Ole Dump of Twine Tutorials and Help](week_10/twine_tutorial_dump.md)
 
+
 ***
 
-### Week 13
-#### Week of April 7, 2026: Game Design for Artists and Personal Portfolios
+### Week 14
+#### Week of April 14, 2026: Game Design for Artists and Personal Portfolios
 
 * [Create a GitHub website for your Twine game.](week_10/project-3_non-linear-narrative.md) We will go over how to do this in class!
 * Read the description for [Project 4: Personal Portfolio](week_13/project-4_personal-portfolio.md)
@@ -210,8 +209,8 @@ DUE **Tuesday, April 7**:
 
 ***
 
-### Week 14
-#### Week of April 14, 2026: Personal Portfolios
+### Week 15
+#### Week of April 15, 2026: Personal Portfolios
 
 Continue working on your Final Portfolio Project
 
@@ -224,13 +223,6 @@ Project 4 resources:
 3. The HTML and CSS tutorials on W3Schools are also very helpful: https://www.w3schools.com/html/default.asp. Some of the more helpful sections are about div, tables, the use of margins and padding.
 
 4. A good template/tutorial for creating a menu/navigation bar: https://www.w3schools.com/howto/howto_js_topnav.asp
-
-***
-
-### Week 15
-#### Week of April 15, 2026
-
-Continue working on your Final Portfolio Project
 
 ***
 
