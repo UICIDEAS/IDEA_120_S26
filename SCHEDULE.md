@@ -137,9 +137,10 @@ https://docs.google.com/spreadsheets/d/1xEAixUQlmEMbI2ExR3OhpDFP3DSfpk0XIkfOy8ms
 [Project 2: Green Screen](/week_07/project-2-green-screen.md)!
 
 DUE **Thursday, March 05**:
-* DOWNLOAD and review [Week 8 guide](https://docs.google.com/presentation/d/1EmozESHm2r0_KY29I2AYpYklK5doBc36eKrglmj1iX4/edit?usp=sharing)
+* DOWNLOAD and review [Week 8 guide](https://docs.google.com/presentation/d/1-iF5X1sqAQ56PtoNN_q6knK0QsyKj46GbPbqlQ6ViFc/edit?usp=sharing)
 
 * Read Read [Marshall Mcluhan, Understanding Media: The Medium is the Message](/week_05_week_of_02-08-2021/readings/Marshall-McLuhan-Understanding-The-Medium-is-the-Message-WEEK-05.pdf)
+* Read [Janet Murray, Hamlet on the Holodeck, Chapter 9](https://github.com/UICIDEAS/IDEA_120_S26/blob/Spring2026/week_06/readings/Janet-Murray-Hamlet-On-the-Holodeck-Chapter-9-WEEK-06.pdf)
 * Watch [Why 'The Mandalorian' Uses Virtual Sets Over Green Screen'](https://www.youtube.com/watch?v=Ufp8weYYDE8)
 * Review [Project 2: Green Screen](/week_07/project-2-green-screen.md) expectations.
 * Write a brief proposal (a few sentences) on what you plan to do for [Project 2: Green Screen](/week_07/project-2-green-screen.md)
