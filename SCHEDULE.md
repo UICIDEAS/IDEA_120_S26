@@ -150,7 +150,7 @@ DUE **Thursday, March 05**:
 ### Week 9
 #### Week of March 10, 2026: Personal Digital Narratives
 
-<!--* DOWNLOAD and review [Week 7 guide](https://docs.google.com/presentation/d/16_2nJQFGgX6_97hNVljRAzY95KAQmXA_RkgTcWW9vHQ/edit?usp=sharing)-->
+DOWNLOAD and review [Week 9 guide](https://docs.google.com/presentation/d/1xgB5panZHQNggmMInww5W78s5qvwUaCDoT1W-ijy7Xo/edit?usp=sharing)
 * Read [James Bridle, Something is Wrong On the Internet](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
 * **Optional** *Read [‘You Can Still Make Websites Nowadays’: A Talk with the Pioneering Internet Art Collective JODI](https://www.artnews.com/art-news/artists/can-still-make-websites-nowadays-talk-pioneering-internet-art-collective-jodi-10653/)*
 * **Optional** *Read [Perrigo, The World Wide Web Turns 30 Today. Here's How Its Inventor Thinks We Can Fix It](https://time.com/5549635/tim-berners-lee-interview-web/)*
