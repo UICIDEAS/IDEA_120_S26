@@ -233,19 +233,22 @@ Project 4 resources:
 Continue working on your Final Portfolio Project
 
 #### Checklist of assignments:
-Reading responses (described in the GitHub class schedule (https://github.com/UICIDEAS/IDEA_120_S25/blob/Spring2026/SCHEDULE.md):
+Checklist:  
 
-Week 1: Rhizome art (make sure you uploaded a folder to: https://drive.google.com/drive/folders/1oC06G2VLGqJvmNud34O7K58CY2lIXCsd?usp=sharing). 
-Week 2: Murray response poem (repository)  
-
-Projects (4):
-
-* PROJECT 1: Github Poetry Website (make sure your url is listed here: https://docs.google.com/spreadsheets/d/1V210uG7OCZRTCpZWI3qDE29z2KrX1BIKsrS5FUm6nSY/edit?gid=0#gid=0). 
-* PROJECT 2: Green Screen (make sure your folder is here: https://drive.google.com/drive/folders/1YEUQq0K2OMkkNmhnbW-gMtUYtAincmLt?usp=drive_link). 
-* PROJECT 3: Non-linear Narrative (make sure your url is listed here: https://docs.google.com/spreadsheets/d/1EZ0wVjxgrY2vRHaIcOiWOwl1pDvgqJ6OiMfoX0Hwyuk/edit?usp=sharing)  
-* PROJECT 4: Portfolio Website (make sure your url is included here: https://docs.google.com/spreadsheets/d/1f7BDMoKZnOSHy2KDKVFLklQT3Fk6C1OsXex0b5qD3K0/edit?usp=sharing). 
-
-#### All assignments must be completed by the end of finals, Friday, MAY 8!
+* 1) Project #1: Flarf Poetry: https://github.com/UICIDEAS/IDEA_120_S26/blob/Spring2026/week_05/PROJECT_1.md   
+UPLOAD YOUR URL TO THIS SPREADSHEET: https://docs.google.com/spreadsheets/d/1xEAixUQlmEMbI2ExR3OhpDFP3DSfpk0XIkfOy8msTs0/edit?gid=0#gid=0    
+* 2) Project #2: Green Screen: https://github.com/UICIDEAS/IDEA_120_S26/blob/Spring2026/week_07/project-2-green-screen.md  
+Create a Google Drive folder for your PROJECT 2, and send me a link (tfunk4@uic.edu). Include the video and 3 screen captures.   
+* 3) Project #3: Twine Game: https://github.com/UICIDEAS/IDEA_120_S26/blob/Spring2026/week_10/project-3_non-linear-narrative.md   
+Download the html file for your finished Twine game. Create a Google Drive folder for your PROJECT 3, and send me a link (tfunk4@uic.edu).  
+* 4) Project #4 (Final Project): Portfolio: https://github.com/UICIDEAS/IDEA_120_S26/edit/Spring2026/week_13/project-4_personal-portfolio.md  
+UPLOAD YOUR URL TO THIS SPREADSHEET: https://docs.google.com/spreadsheets/d/1DMoum1wl97U3YHBcYuG4yZ_Jrd63ZMyeiKU1Z2ptJHc/edit?usp=sharing  
+Template for the portfolio website: https://github.com/fetalcircuit/sample_portfolio/tree/master  
+  
+Video tutorials for making GitHub pages: https://vimeo.com/showcase/10964162?share=copy    
+The password is: idea2026  
+  
+#### All assignments must be completed by finals week, Tuesday, MAY 5!
 
 ***
 
