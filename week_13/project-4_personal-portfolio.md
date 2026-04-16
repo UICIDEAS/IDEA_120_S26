@@ -1,7 +1,7 @@
 # Project 4: Personal Portfolio
 ## Project Description and Criteria
 
-**Due Tuesday, May 6, 2025**
+**Due Tuesday, May 5, 2026**
 
 >#### portfolio (noun)
 1. a large, thin, flat case for loose sheets of paper such as drawings or maps.  
@@ -11,7 +11,9 @@
 
 What is the purpose of a *portfolio*? A portfolio for artists, designers, and other media professionals is often *their proof of qualification* for a specific job, grant, or application.
 
-Portfolios, depending on how they are organized, what work is included (and what work is *excluded*), and how the work is written about/explained are the primary means someone working in a visual field communicates why they should be considered or an opportunity. You are likely familiar with common types of portfolios (e.g. the artist's Instagram portfolio, or the web designer's portfolio).
+Portfolios, depending on how they are organized, what work is included (and what work is *excluded*), and how the work is written about/explained are the primary means someone working in a visual field communicates why they should be considered or an opportunity. You are likely familiar with common types of portfolios (e.g. the artist's Instagram portfolio, or the web designer's portfolio).  
+  
+Template for portfolio website: Template for the portfolio website: https://github.com/fetalcircuit/sample_portfolio/tree/master  
 
 ## A Few Example Portfolios
 - David Braun: [https://dirt.design/portfolio/](https://dirt.design/portfolio/)
