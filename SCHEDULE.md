@@ -243,8 +243,8 @@ Create a Google Drive folder for your PROJECT 2, and send me a link (tfunk4@uic.
 Download the html file for your finished Twine game. Create a Google Drive folder for your PROJECT 3, and send me a link (tfunk4@uic.edu).  
 * 4) Project #4 (Final Project): Portfolio: https://github.com/UICIDEAS/IDEA_120_S26/edit/Spring2026/week_13/project-4_personal-portfolio.md  
 UPLOAD YOUR URL TO THIS SPREADSHEET: https://docs.google.com/spreadsheets/d/1DMoum1wl97U3YHBcYuG4yZ_Jrd63ZMyeiKU1Z2ptJHc/edit?usp=sharing  
-Template for the portfolio website: https://github.com/fetalcircuit/sample_portfolio/tree/master
-The portfolio website template: https://tiffanyfunk.com/sample_portfolio/
+Template for the portfolio website: https://github.com/fetalcircuit/sample_portfolio/tree/master  
+The portfolio website template: https://tiffanyfunk.com/sample_portfolio/  
   
 Video tutorials for making GitHub pages: https://vimeo.com/showcase/10964162?share=copy    
 The password is: idea2026  
