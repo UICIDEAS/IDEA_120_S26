@@ -12,8 +12,9 @@
 What is the purpose of a *portfolio*? A portfolio for artists, designers, and other media professionals is often *their proof of qualification* for a specific job, grant, or application.
 
 Portfolios, depending on how they are organized, what work is included (and what work is *excluded*), and how the work is written about/explained are the primary means someone working in a visual field communicates why they should be considered or an opportunity. You are likely familiar with common types of portfolios (e.g. the artist's Instagram portfolio, or the web designer's portfolio).  
-  
-Template for portfolio website: Template for the portfolio website: https://github.com/fetalcircuit/sample_portfolio/tree/master  
+
+Template for the portfolio website: https://github.com/fetalcircuit/sample_portfolio/tree/master
+The portfolio website template: https://tiffanyfunk.com/sample_portfolio/ 
 
 ## A Few Example Portfolios
 - David Braun: [https://dirt.design/portfolio/](https://dirt.design/portfolio/)
